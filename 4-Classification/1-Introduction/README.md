@@ -170,7 +170,7 @@ Now you can dig deeper into the data and learn what are the typical ingredients 
         return ingredient_df
     ```
 
-   Now you can use that function to get an idea of top ten most popular ingredients by cuisine.
+    Now you can use that function to get an idea of top ten most popular ingredients by cuisine.
 
 1. Call `create_ingredient()` and plot it calling `barh()`:
 
